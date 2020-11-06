@@ -1,0 +1,14 @@
+<resources>
+	<string name="app_name">Puzzle</string>
+	<string name="action_settings">Ustawienia</string>
+	<string name="dummy">DEBUG!!!</string>
+	<string name="timer_zero">00:00</string>
+	<string name="first_fragment_label">Lista obrazków</string>
+	<string name="second_fragment_label">Ukłądanie</string>
+    <string name="puzzle_end">Udało się :)</string>
+    <string name="height">Wysokość</string>
+    <string name="width">Szerokość</string>
+    <string name="save">Zapisz</string>
+    <string name="cancel">Anuluj</string>
+    <string name="show_grid">Pokaż siatkę</string>
+</resources>
